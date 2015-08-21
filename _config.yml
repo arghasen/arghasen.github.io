@@ -1,13 +1,29 @@
 # Site settings
 title: Reflections
-subtitle: Musings of the unknown footballer,
+tagline: Musings of the unknown footballer,
 email: arghasen@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   My new blog on Jekyll based Github pages.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://arghasen.com" # the base hostname & protocol for your site
 twitter_username: arghasen
 github_username:  arghasen
 
 # Build settings
 markdown: kramdown
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+    sass_dir:          _sass
+    style:            :compressed
+
+# About/contact
+author:
+    name:              Argha Sen
