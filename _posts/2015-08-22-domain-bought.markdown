@@ -6,7 +6,7 @@ categories: "personal"
 ---
 Now that I had started the migration to Jekyll and Github, the next sensible
 thing to do seemed like getting a new domain for the blog. I had not expected to
-get a **.com** domain, hence when [http://www.sonalraj.com](Sonal Raj) suggested
+get a **.com** domain, hence when [Sonal Raj](http://www.sonalraj.com) suggested
 it I brushed it off. However he searched for it and viola we found it.So I
 decided to buy it and GoDaddy worked like a charm. The pricing didn't match what
 they advertised in the tin but still good enough. The beauty was the easy
