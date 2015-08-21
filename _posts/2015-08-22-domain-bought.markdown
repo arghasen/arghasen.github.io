@@ -2,7 +2,9 @@
 layout: post
 title:  "Moving to a new DomainName with Godaddy"
 date:   2015-08-22 0:10:00
-categories: "personal" 
+categories: Personal 
+published: true
+tags: personal
 ---
 Now that I had started the migration to Jekyll and Github, the next sensible
 thing to do seemed like getting a new domain for the blog. I had not expected to
@@ -10,7 +12,7 @@ get a **.com** domain, hence when [Sonal Raj](http://www.sonalraj.com) suggested
 it I brushed it off. However he searched for it and viola we found it.So I
 decided to buy it and GoDaddy worked like a charm. The pricing didn't match what
 they advertised in the tin but still good enough. The beauty was the easy
-pointing of the domain to my hithub site and the quick nameserver sync.
+pointing of the domain to my github site and the quick nameserver sync.
 Everything was done in 10 minutes and I was blown off at the ease of use of the
 platform.
 
