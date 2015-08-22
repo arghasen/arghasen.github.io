@@ -3,6 +3,7 @@ layout: post
 title:  "Hello Jekyll"
 date:   2015-08-21 11:55:07
 categories: "hello" 
+author: Argha Sen
 ---
 I have fleeted with the idea of blogging for long but with 7 posts in 7 years, 
 it is certainly not been something I have paid a lot of attention to. So a

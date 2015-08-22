@@ -5,6 +5,7 @@ date:   2015-08-22 0:10:00
 categories: Personal 
 published: true
 tags: personal
+author: Argha Sen
 ---
 Now that I had started the migration to Jekyll and Github, the next sensible
 thing to do seemed like getting a new domain for the blog. I had not expected to
