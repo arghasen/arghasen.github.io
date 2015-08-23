@@ -2,7 +2,7 @@
 layout: post
 title:  "The Season of Goodbyes"
 date:   2015-08-22 0:10:00
-categories: Personal 
+categories: sports 
 published: true
 tags: cricket "Kumar Sangakara" "Micheal Clarke"
 author: Argha Sen
