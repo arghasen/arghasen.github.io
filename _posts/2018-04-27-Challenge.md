@@ -14,7 +14,7 @@ Been a long time since the last post and in the past 2 years we have not done mu
 8 is a nice number to be honest. I was born in August 1988 so 8 is my number. Also 8 allows me to take a challenge every month and take stock of what has been done at the end of the year. 
 
 ## Additional Motivation
-The journey for the next 8 months will be publically documented on this blog. So everyday I will post updates. This is a journey that you will see me undertake publically. For someone who averages a blog a year, this is a big challenge in itself. They say it takes 21 days to make it a habit so lets see where this goes.
+The journey for the next 8 months will be publicly documented on this blag. So everyday I will post updates. This is a journey that you will see me undertake publicaly. For someone who averages a blog a year, this is a big challenge in itself. They say it takes 21 days to make it a habit so lets see where this goes.
 
 ## What time do I have to do this?
 I am very pressed with my day job for time so this will be something adding to the difficulty. I work as a Trading Systems Developer with Alphagrep Securities. 
@@ -25,7 +25,7 @@ I am not yet decided on them all but a few are listed below. The challenges are 
 
 1. Run a 5k under 40 minutes. (May 2018)
 
-   I have never run a 400m race in my life nor I am a regular gym goer. I weigh 90 kilos and not a fit guy by any strech of imagination. I had tried running on treadmill about 2.5 year back and could run at 6.5kmph for 10-12 mins. At that time I used to play some cricket and football though so this challenge will be to get back to the fitness and go better. 
+   I have never run a 400m race in my life nor I am a regular gym goer. I weigh 90 kilos and not a fit guy by any stretch of imagination. I had tried running on treadmill about 2.5 year back and could run at 6.5 km/h for 10-12 mins. At that time I used to play some cricket and football though so this challenge will be to get back to the fitness and go better. 
 
 2. Hold a Conversation in Kannada for 15 minutes.
 
@@ -49,15 +49,15 @@ I am not yet decided on them all but a few are listed below. The challenges are 
 
 
 ## Why am I doing this?
-Learining is an exercise that should never end. In the past 2 years I have really neglected that aspect and I am trying this out as a way to get into a habit of lifelong learning.
+Learning is an exercise that should never end. In the past 2 years I have really neglected that aspect and I am trying this out as a way to get into a habit of lifelong learning.
 
 Max Deutsh's Month2Master has fascinated me and made me curious as to how much can we achieve in a month of practice. Josh Koffman and his 20 hour rule has fascinated me for a long time. It is an opportunity to put both in practice together.
 
-I am looking to see if I can find what is the speed of my learing.
+I am looking to see if I can find what is the speed of my learning.
 
 ## Am I starting from scratch?
 In most cases, **Yes**. My current state is in the description of the challenges.
 
 ## What Next?
-I plan to start on the challenge on May 1, 2018. That gives me a couple of days to plan out the challenge and the get necessary preparations for the first challenge. Each challenge will be documeted in a separate blog.
+I plan to start on the challenge on May 1, 2018. That gives me a couple of days to plan out the challenge and the get necessary preparations for the first challenge. Each challenge will be documented in a separate blog.
 
