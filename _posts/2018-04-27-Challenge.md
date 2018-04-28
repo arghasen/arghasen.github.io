@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Murphy's Law takes me for a ride"
-date:   2016-05-08 19:30:00 +0530
-categories: travel 
+title:  "M2M Challenge - Lets try our hand at a 8 challenges"
+date:   2018-28-08 12:30:00 +0530
+categories: Challenge
 published: true
-tags: Travel Murphy's Law
+tags: Challenge "Accelerated Learning"
 author: Argha Sen
 ---
 # M2M Challenge - Lets try our hand at a 8 challenges.
@@ -23,7 +23,7 @@ I am very pressed with my day job for time so this will be something adding to t
 
 I am not yet decided on them all but a few are listed below. The challenges are geared towards things I have wanted to do but have never did due to one thing or the other.
 
-1. Run a 5k under 40 minutes.
+1. Run a 5k under 40 minutes. (May 2018)
 
    I have never run a 400m race in my life nor I am a regular gym goer. I weigh 90 kilos and not a fit guy by any strech of imagination. I had tried running on treadmill about 2.5 year back and could run at 6.5kmph for 10-12 mins. At that time I used to play some cricket and football though so this challenge will be to get back to the fitness and go better. 
 
