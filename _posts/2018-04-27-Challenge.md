@@ -58,3 +58,6 @@ I am looking to see if I can find what is the speed of my learing.
 ## Am I starting from scratch?
 In most cases, **Yes**. My current state is in the description of the challenges.
 
+## What Next?
+I plan to start on the challenge on May 1, 2018. That gives me a couple of days to plan out the challenge and the get necessary preparations for the first challenge. Each challenge will be documeted in a separate blog.
+
