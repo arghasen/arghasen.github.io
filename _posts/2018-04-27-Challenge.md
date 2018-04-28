@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "M2M Challenge - Lets try our hand at a 8 challenges"
-date:   2018-28-08 12:30:00 +0530
+date:   2018-08-28 12:30:00 +0530
 categories: Challenge
 published: true
 tags: Challenge "Accelerated Learning"
@@ -14,7 +14,7 @@ Been a long time since the last post and in the past 2 years we have not done mu
 8 is a nice number to be honest. I was born in August 1988 so 8 is my number. Also 8 allows me to take a challenge every month and take stock of what has been done at the end of the year. 
 
 ## Additional Motivation
-The journey for the next 8 months will be publicly documented on this blag. So everyday I will post updates. This is a journey that you will see me undertake publicaly. For someone who averages a blog a year, this is a big challenge in itself. They say it takes 21 days to make it a habit so lets see where this goes.
+The journey for the next 8 months will be publicly documented on this blag. So everyday I will post updates. This is a journey that you will see me undertake publicly. For someone who averages a blog a year, this is a big challenge in itself. They say it takes 21 days to make it a habit so lets see where this goes.
 
 ## What time do I have to do this?
 I am very pressed with my day job for time so this will be something adding to the difficulty. I work as a Trading Systems Developer with Alphagrep Securities. 
