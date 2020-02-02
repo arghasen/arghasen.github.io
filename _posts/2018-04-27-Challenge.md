@@ -3,7 +3,7 @@ layout: post
 title:  "M2M Challenge - Lets try our hand at a 8 challenges"
 date:   2018-08-28 12:30:00 +0530
 categories: Challenge
-published: true
+published: false
 tags: Challenge "Accelerated Learning"
 author: Argha Sen
 ---
