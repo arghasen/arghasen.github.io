@@ -1,2 +1,2 @@
 # arghasen.github.io
-This is the Git repo for my blog found at [arghasen.com](http://arghasen.com)
+This is the Git repo for my blog found at [arghasen.github.io](http://arghasen.github.io)
